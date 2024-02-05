@@ -1,24 +1,4 @@
-# cocktails
+# Cocktails
 
-## Project setup
-```
-npm install
-```
+[Макет:](https://www.figma.com/file/OtLxFZwe0OELo2Yc4iLOlr/Cocktails?type=design&node-id=0-1&mode=design&t=oJS2CuAQMx7tMe1q-0)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
