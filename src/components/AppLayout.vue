@@ -27,7 +27,7 @@ function goForCocktailRandom() {
     router.push(ROUTES_PATHS.RANDOM_COCKTAIL);
 
     if(routeName.value === ROUTES_PATHS.RANDOM_COCKTAIL) {
-        router.go();
+        router.go(0);
     }
 }
 
