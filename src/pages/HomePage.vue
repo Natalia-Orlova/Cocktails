@@ -89,6 +89,7 @@ function removeIngredient() {
 .cocktails {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   max-height: 400px;
   overflow-y: auto;

@@ -23,7 +23,8 @@ defineProps({
 @import "../assets/styles/main";
 
 .root {
-  width: 120px;
+  // width: 120px;
+  width: calc((100% - 76px)/3);
   margin-right: 38px;
   padding-bottom: 20px;
 
