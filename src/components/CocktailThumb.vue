@@ -23,7 +23,9 @@ defineProps({
 @import "../assets/styles/main";
 
 .root {
-  // width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   width: calc((100% - 76px)/3);
   margin-right: 38px;
   padding-bottom: 20px;
@@ -44,10 +46,10 @@ defineProps({
 
 .name {
   width: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
   margin-top: 15px;
   letter-spacing: 0.1em;
+  // white-space: nowrap;
+  // overflow: hidden;
+  // text-overflow: ellipsis;
 }
 </style>
