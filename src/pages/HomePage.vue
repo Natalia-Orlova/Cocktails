@@ -90,6 +90,7 @@ function removeIngredient() {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 38px;
   flex-wrap: wrap;
   max-height: 400px;
   overflow-y: auto;
